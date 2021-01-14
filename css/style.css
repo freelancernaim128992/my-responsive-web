@@ -1,0 +1,68 @@
+
+.f-family{
+  font-family: 'Oswald', sans-serif;
+}
+/*
+  Navigation
+*/
+.header{
+    background-color: #FFFBF0;
+    overflow: hidden;
+}
+.menu-width{
+  width: 510px;
+}
+/* 
+  Home Section 
+*/
+.text-bold{
+  font-weight: 700;
+}
+.font-size{
+  font-size: 50px;
+}
+.text-wrapper{
+  width: 380px;
+}
+.text-color{
+  color: #363958;
+}
+.icon-width{
+  width: 25px;
+}
+.bg-btn{
+  background-image: linear-gradient(#A1B941,#8CA724);
+}
+/* 
+  Women Jacket Section 
+*/
+.bg-color{
+  background-color: #F1F1F1;
+}
+.bg-radius{
+  border-radius: 15px !important;
+}
+.img-area-height{
+  height: 300px;
+}
+.remove-border{
+  border: none;
+}
+.btn-radius{
+  border-radius: 10px;
+}
+/* 
+  About Section 
+*/
+.about{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.left-area{
+  width: 560px;
+  float:left;
+}
+.right-area{
+  width: 560px;
+  float: right;
+}
